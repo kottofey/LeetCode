@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[20]Valid Parentheses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[20]Valid Parentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.com20" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[20]Valid Parentheses.java" />
+              <option name="titleSlug" value="valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[21]Merge Two Sorted Lists.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[21]Merge Two Sorted Lists.md" />
+              <option name="frontendQuestionId" value="leetcode.com21" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[21]Merge Two Sorted Lists.java" />
+              <option name="titleSlug" value="merge-two-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[268]Missing Number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[268]Missing Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com268" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[268]Missing Number.java" />
+              <option name="titleSlug" value="missing-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[26]Remove Duplicates from Sorted Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com26" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[27]Remove Element.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[27]Remove Element.md" />
+              <option name="frontendQuestionId" value="leetcode.com27" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[27]Remove Element.java" />
+              <option name="titleSlug" value="remove-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[28]Find the Index of the First Occurrence in a String.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[28]Find the Index of the First Occurrence in a String.md" />
+              <option name="frontendQuestionId" value="leetcode.com28" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[28]Find the Index of the First Occurrence in a String.java" />
+              <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[35]Search Insert Position.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[35]Search Insert Position.md" />
+              <option name="frontendQuestionId" value="leetcode.com35" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[35]Search Insert Position.java" />
+              <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[3]Longest Substring Without Repeating Characters.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[3]Longest Substring Without Repeating Characters.md" />
+              <option name="frontendQuestionId" value="leetcode.com3" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[3]Longest Substring Without Repeating Characters.java" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/en/[58]Length of Last Word.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[58]Length of Last Word.md" />
+              <option name="frontendQuestionId" value="leetcode.com58" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[58]Length of Last Word.java" />
+              <option name="titleSlug" value="length-of-last-word" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[13]Roman to Integer.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/doc/content/[13]Roman to Integer.md" />
+              <option name="frontendQuestionId" value="leetcode.com13" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[13]Roman to Integer.java" />
+              <option name="titleSlug" value="roman-to-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[14]Longest Common Prefix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/doc/content/[14]Longest Common Prefix.md" />
+              <option name="frontendQuestionId" value="leetcode.com14" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[14]Longest Common Prefix.java" />
+              <option name="titleSlug" value="longest-common-prefix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[1]Two Sum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[20]Valid Parentheses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/tmp/leetcode/editor/en/doc/content/[20]Valid Parentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.com20" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/en/[20]Valid Parentheses.java" />
+              <option name="titleSlug" value="valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[2667]Create Hello World Function.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/doc/content/[2667]Create Hello World Function.md" />
+              <option name="frontendQuestionId" value="leetcode.com2667" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[2667]Create Hello World Function.java" />
+              <option name="titleSlug" value="create-hello-world-function" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[2]Add Two Numbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/doc/content/[2]Add Two Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[2]Add Two Numbers.java" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[9]Palindrome Number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/doc/content/[9]Palindrome Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com9" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/ts/3pl5sn5d4kn124chlh_88yrh0000gn/T/leetcode/editor/en/[9]Palindrome Number.java" />
+              <option name="titleSlug" value="palindrome-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
